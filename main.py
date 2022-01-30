@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 import pyautogui
 import sys
 
+# pyautogui, pyinstaller, selenium 설치해야 함
 # pyinstaller 명령어 - 터미널에서 pyinstaller --onefile -w main.py
 ### 현재 제로페이 웹 페이지 교체로 사용 불가능 ###
 
